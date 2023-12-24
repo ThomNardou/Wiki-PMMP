@@ -1,0 +1,10 @@
+name: WikiSulfuritium
+main: ReactedTitan\WikiSulfu\Main
+api: 5.0.0
+author: ReactedTitan880
+version: 1.0.0
+description: a simple wiki plugin
+permissions:
+  wikiCommand.use:
+    description: "permet d'utiliser le wiki"
+    default: true
